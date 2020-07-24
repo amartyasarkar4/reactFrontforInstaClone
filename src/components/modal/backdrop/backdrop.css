@@ -1,0 +1,11 @@
+.modali{
+    position:fixed;
+    top:0;
+    left:0;
+    
+    width:100% !important;
+    height:100% !important;
+    background-color:rgba(8, 8, 8, 0.527) !important;
+    opacity:0.3 !important;
+    z-index:100 ;
+}

@@ -1,0 +1,62 @@
+.top{
+    border:1px solid #ccc;
+
+}
+
+.prfPic{
+    width:60%;
+    height:170px;
+    border-radius: 50%;
+    margin:50px 60px;
+}
+.userName{
+    margin-top: 40px;
+    color:rgba(10, 7, 7, 0.774);
+    margin-bottom: 0 !important;
+}
+.editButton{
+    width:100px !important;
+    margin-top: 25px;
+    margin-right: 17px;
+    font-size: 15px;
+    padding:10px;
+    color:rgb(10, 1, 1) !important;
+    border-radius: 5px;
+    opacity:0.8 !important;
+    border:1px solid #ccc !important;
+    background-color: whitesmoke !important;
+}
+.editButton:hover{
+    background-color: whitesmoke !important;
+    opacity:1 !important;
+    font-weight: bold;
+}
+.insocial{
+    margin:0 !important;
+}
+.name{
+    margin:0 !important;
+}
+.bio{
+    margin:0 !important;
+}
+nav{
+    background-color: white !important;
+}
+.tabs{
+    width:80%;
+    text-align: center !important;
+    margin:0 auto !important;
+
+}
+.nav-content{
+    text-align:center !important;
+}
+.images{
+    width:95%;
+}
+.itemImg{
+    width:98%;
+    height:330px;
+    margin:20px;
+}

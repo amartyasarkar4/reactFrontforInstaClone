@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+.hmcard{
+    margin-top:30px !important;
+    border:1px solid #ccc !important;
+    padding:30px;
+    width:75%;
+    margin:auto;
+    box-shadow:4px 4px 8px #ccc !important;
+}
+.activator{
+    width:100%;
+}
+.card-content{
+    font-size:90% !important;
+}
+.photoId{
+    width:100%;
+    height:40px;
+    border-radius:50%;
+}
+.myicons{
+    font-size: 100px;
+    color:rgb(221, 13, 13);
+    cursor:pointer;
+}
+.cmnt{
+    font-size:40px !important;
+    margin-left:15px;
+    margin-top:20px;
+}
+.sendbtn{
+    transform: rotateZ(-39deg) !important;
+    margin-left:15px;
+}
+.inputCmnt{
+    border:none !important;
+    border-bottom: 1px solid green !important;
+}
+.commentbtn{
+    width:50px !important;
+    height:40px;
+    border:none !important;
+    background-color:none !important;
+}
+.submitCmnt{
+    font-size: 24px !important;
+}
+@media(max-width:500px){
+    .cmnt{
+        font-size:20px !important;
+    }
+}

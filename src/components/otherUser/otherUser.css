@@ -1,0 +1,48 @@
+.top{
+    border:1px solid #ccc;
+}
+.prfPic{
+    width:60%;
+    height:160px;
+    border-radius: 50%;
+    margin:50px 60px;
+}
+.userProfileName{
+    margin-top:30px !important;
+    margin-left:2px !important;
+    color:rgba(10, 7, 7, 0.774) !important;
+    margin-bottom: 0 !important;
+}
+.arrowBut{
+    width:40px !important;
+    margin-top:20px !important;
+    height: 40px !important;
+    border-radius: 5px;
+    border:1px solid #ccc !important;
+    background-color: whitesmoke !important;
+    padding:5px;
+}
+.downarw{
+    width:30px !important;
+    width:100% !important;
+    padding:auto !important;
+    margin-left:auto !important;
+}
+.followButton{
+    width:100px !important;
+    height: 40px !important;
+    margin-top:20px !important;
+    margin-right: 10px;
+    font-size: 15px;
+    padding:10px;
+    color:rgb(10, 1, 1) !important;
+    border-radius: 5px;
+    opacity:0.8 !important;
+    border:1px solid #ccc !important;
+    background-color: whitesmoke !important;
+}
+.followButton:hover{
+    background-color: whitesmoke !important;
+    opacity:1 !important;
+    font-weight: bold;
+}

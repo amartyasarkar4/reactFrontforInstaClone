@@ -1,0 +1,58 @@
+.mycard{
+    margin-top:500px;
+    border:1px solid #ccc;
+    padding:30px;
+    width:400px;
+    margin:auto;
+    box-shadow:4px 4px 8px #ccc;
+   
+}
+span{
+    margin:auto !important;
+    text-align: center !important;
+}
+.title{
+    color:black;
+    margin:auto !important;
+   text-align: center ;
+}
+.desc{
+    color:rgb(124, 77, 77);
+    font-size:18px;
+    text-align:center !important;
+    margin:auto !important;
+}
+.separate{
+    color:rgb(8, 7, 7);
+    font-size: 20px;
+}
+.hr{
+    width:42%;
+    
+}
+input{
+    font-size:15px !important;
+    color:black !important;
+    border:1px solid #ccc !important;
+    box-shadow:2px 2px 4px #ccc !important;
+    padding:0 5px !important;
+    margin:0 auto !important;
+}
+.type{
+    width:90% !important;
+    height:43px;
+    text-align: center;
+    margin:10px auto;
+    margin-top: 1px;
+}
+.signUpBtn{
+    width:100%;
+    margin-bottom:20px;
+    text-align: center !important;
+    background-color:rgb(69, 149, 235) !important;
+    opacity:0.54
+}
+.signUpBtn:hover{
+    background-color:rgb(41, 129, 230) !important;
+    opacity:1
+}

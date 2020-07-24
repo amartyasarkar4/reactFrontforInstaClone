@@ -1,0 +1,29 @@
+.mycard{
+    margin-top:30px !important;
+    border:1px solid #ccc !important;
+    padding:30px;
+    width:400px;
+    margin:auto;
+    box-shadow:4px 4px 8px #ccc !important;
+}
+.desc{
+    color:rgba(22, 15, 15, 0.637) !important;
+    font-size:16px !important;
+    text-align:center !important;
+    margin:auto !important;
+}
+.otherlink{
+    color:blue !important;
+    cursor:pointer;
+}
+.type{
+    width:90% !important;
+    height:43px;
+    text-align: center;
+    margin:0 auto;
+    margin-bottom:20px !important;
+}
+button{
+    width:90% !important;
+    margin:0px auto;
+}

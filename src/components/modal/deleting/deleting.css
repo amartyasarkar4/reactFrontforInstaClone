@@ -1,0 +1,16 @@
+.division{
+    position:fixed;
+    width:300px !important;
+    padding:0 20px;
+    background-color:rgb(255, 254, 254) !important;
+    z-index:2000 !important;
+    left:40%;
+    top:30%;
+    border-radius:10px;
+    opacity: 1 !important;
+    margin:auto;
+}
+.chingari2{
+    color:red !important;
+    z-index:7002;
+}

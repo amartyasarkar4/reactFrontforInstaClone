@@ -1,0 +1,46 @@
+.imageSec{
+    margin-top:20px !important;
+    margin-bottom:20px !important;
+    padding:auto !important;
+   
+}
+.onlyimg{
+    text-align:right !important;
+}
+.profilePic{
+    position:absolute !important;
+    width:70px !important;
+    height:70px !important;
+    margin-top:20px !important;
+    left:62px !important;
+    border-radius:50% !important;
+}
+.changePic{
+    font-size:19px;
+    font-weight:bold;
+    color:rgb(33, 157, 240);
+    width:150px !important;
+    margin:auto !important;
+    padding:auto !important;
+}
+.changePic:hover{
+    color:rgb(7, 204, 204);
+}
+.username{
+    margin-top:20px !important;
+}
+input{
+    width:90% !important;
+}
+.text{
+    width:90% !important;
+}
+.sbmitbtn{
+    width:80px !important;
+    border-radius:5px;
+    padding:10px 15px;
+    background-color: cornflowerblue;
+    color:whitesmoke;
+    font-weight:bolder;
+    margin-bottom:30px !important;
+}
